@@ -44,6 +44,10 @@ Este repositorio contiene una aplicación PHP CRUD (Create, Read, Update, Delete
 - **Funcionalidad:** Facilita la eliminación de un usuario de la base de datos.
 - **Características:** 
   - Eliminación de información de usuario basada en el ID de usuario.
+ 
+### Opciones para filtrar o buscar registros especificos 
+- Filtros avanzados: Permite a los usuarios aplicar múltiples criterios de filtro para restringir los resultados. Por ejemplo, podrían filtrar por fecha, categoría, estado, etc. Esto puede hacerse mediante listas desplegables, casillas de verificación, rangos de fechas, etc.
+- Ordenar resultados: Ofrece la capacidad de ordenar los resultados según un criterio específico, como fecha, nombre, o cualquier otro campo relevante. Los usuarios pueden optar por ordenar en orden ascendente o descendente. 
 
 ## Conexión a la Base de Datos (`connect.php`)
 
